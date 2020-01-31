@@ -13,11 +13,11 @@ rootBgColor = "gray10"
 rootFont = ("Helvetica","14")
 fsMode = False
 
-phonebookKoltin = 6053680864
-phonebookBrian = 6057595080
-phonebookConnor = 6054005779
+phonebookPerson1 = 0000000000
+phonebookPerson2 = 0000000000
+phonebookPerson3 = 0000000000
 
-outgoingPhoneNumber = phonebookKoltin
+outgoingPhoneNumber = phonebookPerson1
 
 msgBody="Message Sent from PiTrax at: "
 msgEnding=", -PiTrax"

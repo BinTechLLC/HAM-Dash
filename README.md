@@ -11,6 +11,6 @@ December 2019: We have also now started working on plotting the GPRS system to O
 
 November 2019: Started working on a GUI for the GPRS functionality of the SIM868 GSM/GPRS chip. We are testing it heavily before uploading.
 
-October 2019: We now have the GUI base built enough to the point we feel we can upload it as a shell and let others add to it. V1.6 (MKVI), will be considered the public Shell but will be updated along with the full system.
+October 2019: We now have the GUI base built enough to the point we feel we can upload it as a shell and let others add to it. V1.4 (MK-IV), will be considered the public Shell but will be updated along with the full system.
 
 Pre Upload- from February 2019 - September 2019: We were learning and building the main base GUI with NO controls other than dummy buttons. It had base functionality and some system commands like an OS update script, and a shutdown or reboot function.
